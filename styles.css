@@ -44,7 +44,7 @@ h1 {
     color: var(--pl-white);
     opacity: 0.75;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     text-align: center;
     line-height: 1.2;
 }
